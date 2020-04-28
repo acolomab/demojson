@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "images": [
+    {"id" : 1, "url" : "imagen1.jpg"},
+    {"id" : 2, "url" : "imagen2.jpg"}
+  ]
+  
+  
 }
