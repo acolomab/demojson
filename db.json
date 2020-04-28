@@ -3,7 +3,8 @@
   "categorias":[
     { "id" : 1, "nombre": "Placas Base" },
     { "id" : 2, "nombre": "Procesadores" },
-    { "id" : 3, "nombre": "Discos duros SSD" }
+    { "id" : 3, "nombre": "Discos duros SSD" },
+    { "id" : 4, "nombre": "Memorias RAM" }
   ],
   
 
@@ -31,6 +32,78 @@
       "precio": 77.98,
       "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/140844/1408440.jpg",
       "id_categoria" : 3 
+    },
+    { "id": 4, 
+      "nombre": "Intel Core i5-9400F 2.9GHz", 
+      "vistas": 67,
+      "likes": 34,
+      "precio": 153.90,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/18/182356/e000661.jpg",
+      "id_categoria" : 2 
+    },
+    { "id": 5, 
+      "nombre": "Intel Core i9-9900K 3.6Ghz", 
+      "vistas": 56,
+      "likes": 33,
+      "precio": 509.89,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/17/173601/1539027947000-1435917.jpg",
+      "id_categoria" : 2
+    },
+    { "id": 6, 
+      "nombre": "AMD Ryzen 3 1200 AF Stepping 3.1Ghz", 
+      "vistas": 5,
+      "likes": 1,
+      "precio": 54.99,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/28/284205/amd-ryzen-3-1200-af-stepping-31ghz-comprar.jpg",
+      "id_categoria" : 2
+    },
+    { "id": 7, 
+      "nombre": "MSI X470 Gaming Plus Max", 
+      "vistas": 48,
+      "likes": 12,
+      "precio": 129.89,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/23/238976/sf-nvr6432-4k16p.jpg",
+      "id_categoria" : 1 
+    },
+    { "id": 8, 
+      "nombre": "Asus PRIME B450M-A", 
+      "vistas": 89,
+      "likes": 47,
+      "precio": 76.99,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/16/168674/59132703-0699241210.jpg",
+      "id_categoria" : 1
+    },
+    { "id": 9, 
+      "nombre": "MSI A320M-A PRO MAX", 
+      "vistas": 17,
+      "likes": 11,
+      "precio": 51.99,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/24/240541/1.jpg",
+      "id_categoria" : 1
+    },
+    { "id": 10, 
+      "nombre": "G.Skill Ripjaws V DDR4 3000 16GB 2x8GB CL16", 
+      "vistas": 66,
+      "likes": 35,
+      "precio": 79.99,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/16/169065/1.jpg",
+      "id_categoria" : 4
+    },
+    { "id": 11, 
+      "nombre": "Crucial DDR4 2400 PC4-19200 8GB CL17", 
+      "vistas": 43,
+      "likes": 4,
+      "precio": 36.99,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/144396/1.jpg",
+      "id_categoria" : 4
+    },
+    { "id": 12, 
+      "nombre": "Corsair Vengeance RGB Pro Optimizado AMD DDR4 3200 16GB 2x8GB CL16", 
+      "vistas": 44,
+      "likes": 31,
+      "precio": 129,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/27/279642/corsair-vengeance-rgb-pro-optimizado-amd-ddr4-3200-16gb-2x8gb-cl16-opiniones.jpg",
+      "id_categoria" : 4
     }
   ]
   
