@@ -1,19 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  
+  "categorias":[
+    { "id" : 1, "nombre": "Placas Base" },
+    { "id" : 2, "nombre": "Procesadores" },
+    { "id" : 3, "nombre": "Discos duros SSD" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "images": [
-    {"id" : 1, "url" : "imagen1.jpg"},
-    {"id" : 2, "url" : "imagen2.jpg"}
+  
+
+  "articulos": [
+    { "id": 1, 
+      "nombre": "Samsung 860 EVO Basic SSD 500GB SATA3", 
+      "vistas": 23,
+      "likes": 4,
+      "precio": 95.99,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/149210/evo860-1.jpg",
+      "id_categoria" : 3 
+    },
+    { "id": 2, 
+      "nombre": "WD Blue 3D Nand SSD SATA 1TB", 
+      "vistas": 31,
+      "likes": 12,
+      "precio": 123,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/146650/1.jpg",
+      "id_categoria" : 3 
+    },
+    { "id": 3, 
+      "nombre": "Western Digital Blue 3D Nand SATA SSD M.2 2280 500GB", 
+      "vistas": 15,
+      "likes": 2,
+      "precio": 77.98,
+      "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/140844/1408440.jpg",
+      "id_categoria" : 3 
+    }
   ]
   
   
