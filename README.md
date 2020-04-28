@@ -1,7 +1,5 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/acolomab/demojson](https://my-json-server.typicode.com/acolomab/demojson)
 
-## Use your own data
-
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+My repo has a db file with articles and categories
