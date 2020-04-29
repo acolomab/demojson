@@ -1,6 +1,11 @@
 
 {
-  
+  "informacion":{ 
+      "grupo" : "ASIX1",
+      "anyo"  : "2019-2020",
+      "profesor" : "Antonio",
+      "version" : "0.001"
+  },
   "categorias":[
     { "id" : 1, "nombre": "Placas Base" },
     { "id" : 2, "nombre": "Procesadores" },
