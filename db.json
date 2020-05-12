@@ -3,8 +3,8 @@
   "informacion":{ 
       "grupo" : "ASIX1",
       "anyo"  : "2019-2020",
-      "profesor" : "Antonio",
-      "version" : "0.001"
+      "profesor" : "Antonio Coloma",
+      "version" : "1.1"
   },
   "categorias":[
     { "id" : 1, "nombre": "Placas Base" },
